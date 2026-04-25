@@ -2,6 +2,10 @@
 
 An advanced interactive dashboard designed to track key product metrics, revenue trends, and subscription health using Tableau.
 
+![Dashboard Preview](dashboard-preview1_1.png)
+
+![Dashboard Preview](dashboard-preview1_2.png)
+
 ---
 
 ## 🇺🇸 English Version
@@ -36,4 +40,5 @@ Bu proje, profesyonel veri görselleştirme tekniklerini kullanarak SaaS gelir v
 - **Tasarım İlkeleri:** Maksimum netlik için profesyonel dashboard tasarım standartlarına (görsel hiyerarşi, renk teorisi ve boşluk yönetimi) uyum sağlandı.
 
 ### 📂 Dosya Bilgisi
-- `SaaS_Revenue_Analysis.twbx`: Veri kaynağı gömülü Tableau paket dosyası.
+- `Sales-Performance-Analysis-Tableau.twbx`: Veri kaynağı gömülü Tableau paket dosyası.
+- `Sales-Performance-Analysis-Tableau_2.twbx`: Veri kaynağı gömülü Tableau paket dosyası.
